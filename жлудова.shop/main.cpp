@@ -122,7 +122,7 @@ void CreateStorage()
 	FillArray(countArr, count, storageSize);
 	FillArray(priceArr, price, storageSize);
 }
-//cnfhn
+//cnfhnhhtyjy
 void Start()
 {
 	std::string choose;
